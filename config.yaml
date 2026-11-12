@@ -1,0 +1,3 @@
+spring:
+   clientId: REMOVED_SECRET
+   secret:   REMOVED_SECRET
